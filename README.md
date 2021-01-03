@@ -1,6 +1,6 @@
-# Colorado Election Analysis
+# Election Audit Analysis
 
-## Project Overview
+## Election Audit Overview
 To complete an election audit for the Colorado Board of Elections Commission showing the following: 
 
 1. Calculate the total number of votes cast.
@@ -12,8 +12,8 @@ To complete an election audit for the Colorado Board of Elections Commission sho
 7. Calculate the percentage of voted from each county.
 8. Determine the county with the highest turnout. 
 
-##Resources
--Data Source: election_resluts.csv
+Resources:
+-Data Source: election_results.csv
 -Software: Python 3.7, Visual Studio Code 3.9.1
 
 ## Election Audit Results
@@ -32,6 +32,6 @@ The anaylsis of the election shows that:
   - Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes. 
 The winner of the elction was Diana DeGette
 
-## Election-Audit Summary
+## Election Audit Summary
 As you can see the information provided by this process gives you information for both the candidates running and the county turnout. With some modification, we can use the same details for any election. For example, we can make a modification to show candidates votes by county. We can also increase the data set to include all od the counties in Colorado for a state-wide election. 
   
