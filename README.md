@@ -1,7 +1,7 @@
 # Election Audit Analysis
 
 ## Election Audit Overview
-To complete an election audit for the Colorado Board of Elections Commission showing the following: 
+The goals of this analysis was to complete an election audit for the Colorado Board of Elections Commission showing the following: 
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes. 
