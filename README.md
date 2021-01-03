@@ -37,4 +37,5 @@ The anaylsis of the election shows that:
 ## Election Audit Summary
 As you can see the information provided by this process gives you information for both the candidates running and the county turnout. With some modification, we can use the same details for any election. For example, we can make a modification to show candidates votes by county. We can also increase the data set to include all od the counties in Colorado for a state-wide election. 
 
-
+[Election Analysis File](https://github.com/allibartlett-27/Election_Analysis/blob/main/election_analysis.txt)
+[PyPoll Challenge Script](https://github.com/allibartlett-27/Election_Analysis/blob/main/PyPoll_Challenge.py)
